@@ -16,8 +16,7 @@
 ---
 
 ## 🛠️ التقنيات المستخدمة (Tech Stack)
-- **Python**  
-- **Flask** (لـ REST API)  
+- **Python**   
 - **gTTS** (Text-to-Speech) – يمكن استبدالها بـ ElevenLabs / Azure TTS لأصوات طبيعية أكتر  
 - **Gemini API** + **Groq API**  
 - **Automation Scripts (Python)**  
